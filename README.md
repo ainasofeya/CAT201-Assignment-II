@@ -15,13 +15,16 @@ C. Website Description
 Our website is divided into five pages that display different information as the following:
 •	Home Page:
 This page was designed to display main information about LuxeAura that could visually attract the customers to explore the website more. There was a catchy phrase displayed on this page to grasp the customers’ attention and make the website more attractive. 
+
 •	Services Page:
 This page was created to display all the services offered by LuxeAura. There were pictures and prices attached to each service to make the page look more informative.
+
 •	About Page:
 This page was specifically designed to provide customers with the details of LuxeAura’s company background such as vision and mission, year of establishment and short company description.
  
 •	Contact Page:
 As a company that provides services, this page is compulsory for customers to provide feedback and complaints about our services. This page was designed to ease customers in giving their feedback and so on.
+
 •	Staff Page:
 This page was specifically created to provide information about staff information which is company’s executives.
 
