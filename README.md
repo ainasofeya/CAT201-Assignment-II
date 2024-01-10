@@ -13,6 +13,7 @@ Hence, a website is designed to ease customers experience to know more about Lux
 C. Website Description
 
 Our website is divided into five pages that display different information as the following:
+
 •	Home Page:
 This page was designed to display main information about LuxeAura that could visually attract the customers to explore the website more. There was a catchy phrase displayed on this page to grasp the customers’ attention and make the website more attractive. 
 
