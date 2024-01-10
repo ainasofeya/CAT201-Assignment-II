@@ -21,7 +21,8 @@ This page was created to display all the services offered by LuxeAura. There wer
 
 •	About Page:
 This page was specifically designed to provide customers with the details of LuxeAura’s company background such as vision and mission, year of establishment and short company description.
- 
+
+ 
 •	Contact Page:
 As a company that provides services, this page is compulsory for customers to provide feedback and complaints about our services. This page was designed to ease customers in giving their feedback and so on.
 
